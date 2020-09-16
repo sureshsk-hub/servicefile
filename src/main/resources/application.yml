@@ -1,0 +1,13 @@
+
+ twilio:
+  account_sid: AC03f7dc93379ddde947b1fd4cc5eb8f36
+  auth_token: 325c07cf2524cf2815f0774f90939b98
+  trial_number: +18647148412
+  
+ amazonProperties:
+  endpointUrl: https://s3.ap-south-1.amazonaws.com
+  accessKey: AKIAIJOFWP66LVSY5MXQ
+  secretKey: 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
+  bucketName: vedikaas
+  
+ 
